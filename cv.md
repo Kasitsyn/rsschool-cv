@@ -5,7 +5,7 @@
 
 ### Contact information:
 
-**Phone:** +7913-069-0454<br>
+**Phone:** +7(913)069-0454<br>
 **E-mail:** kasitsyn@gmail.com<br>
 **Telegram:** @yura_kasitsyn<br>
 **Discord:** Yura#5680<br>
