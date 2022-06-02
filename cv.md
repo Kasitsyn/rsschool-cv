@@ -54,7 +54,7 @@ function twoSum(numbers, target) {
 
 - HTML and CSS Tutorials on the [HTML Academy](https://htmlacademy.ru/)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
-- RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+- RS Schools Course [«JavaScript/Front-end. Stage 1»](https://rs.school/js-stage0/)
 
 ---
 
