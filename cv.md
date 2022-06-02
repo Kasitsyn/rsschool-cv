@@ -25,6 +25,7 @@ Also I think that IT is a great community of smartest people on Earth who makes 
 - HTML5, CSS3
 - JavaScript
 - React
+- NodeJS
 - Git, GitHub
 - VS Code
 - Figma
