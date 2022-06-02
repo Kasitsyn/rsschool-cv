@@ -5,7 +5,7 @@
 
 ### Contact information:
 
-**Phone:** +7913-069-0454<br>
+**Phone:** +7(913)069-0454<br>
 **E-mail:** kasitsyn@gmail.com<br>
 **Telegram:** @yura_kasitsyn<br>
 **Discord:** Yura#5680<br>
@@ -25,9 +25,10 @@ Also I think that IT is a great community of smartest people on Earth who makes 
 - HTML5, CSS3
 - JavaScript
 - React
+- NodeJS
 - Git, GitHub
-- VS Code
-- Figma
+- VS Code, Webstorm, Sublime
+- Figma, Photoshop
 
 ---
 
@@ -53,7 +54,7 @@ function twoSum(numbers, target) {
 
 - HTML and CSS Tutorials on the [HTML Academy](https://htmlacademy.ru/)
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
-- RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+- RS Schools Course [«JavaScript/Front-end. Stage 1»](https://rs.school/js-stage0/)
 
 ---
 
