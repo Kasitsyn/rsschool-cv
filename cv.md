@@ -27,8 +27,8 @@ Also I think that IT is a great community of smartest people on Earth who makes 
 - React
 - NodeJS
 - Git, GitHub
-- VS Code
-- Figma
+- VS Code, Webstorm, Sublime
+- Figma, Photoshop
 
 ---
 
