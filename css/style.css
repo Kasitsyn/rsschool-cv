@@ -46,7 +46,7 @@ body {
   transition: .3s;
 }
 
-.nav-link:hover {
+a:hover {
   color: #d900ff;
 }
 
